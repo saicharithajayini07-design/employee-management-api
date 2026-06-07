@@ -11,8 +11,9 @@ A simple Spring Boot REST API project for managing employee data.
 ## Technologies Used
 - Java
 - Spring Boot
-- Maven
+- Microservices
 - REST API
+- Sql Databases
 
 ## Author
 Sai Charitha Jayini
